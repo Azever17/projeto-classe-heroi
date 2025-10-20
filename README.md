@@ -1,15 +1,16 @@
 <div align="center">
-# 🦸‍♂️ Projeto Classe Herói
+
+# 🦸‍♂️ Projeto Classe Herói  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)  
 
-Desafio desenvolvido no bootcamp da **DIO (Digital Innovation One)** para praticar os fundamentos de **JavaScript** e **Programação Orientada a Objetos (POO)**.
+Desafio desenvolvido no bootcamp da **DIO (Digital Innovation One)**  
+para praticar os fundamentos de **JavaScript** e **Programação Orientada a Objetos (POO)**.  
 
 </div>
 
 ---
-
 
 ## 🎯 Objetivo
 
@@ -43,6 +44,8 @@ E um método chamado `atacar()`, que exibe uma mensagem diferente conforme o tip
 ---
 
 ## 💻 Código Principal
+
+Abaixo está o código completo da classe `Heroi`, com o método `atacar()` e o programa principal que executa os ataques:
 
 ```javascript
 class Heroi {
@@ -87,42 +90,34 @@ function main() {
 
 main()
 
-
-
+---
 
 ## 🧠 Saída Esperada
 
 A saída exibida no terminal deve ser semelhante a esta:
 
-```diff
 === BATALHA DOS HERÓIS ===
 mago atacou usando magia
 guerreiro atacou usando espada
 monge atacou usando artes marciais
 ninja atacou usando shuriken
 
-
----
-
-## 💼 Tecnologias Utilizadas
+🧰 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- ✅ **JavaScript**  
-- ✅ **Node.js**  
-- ✅ **VS Code**  
-- ✅ **Git e GitHub**
+✅ JavaScript
 
----
+✅ Node.js
 
-## ✨ Autor
+✅ VS Code
 
-Feito com dedicação por **Marcelo Azevedo** 💪  
+✅ Git e GitHub
 
-📧 **E-mail:** [marcell.azever+dev@gmail.com](mailto:marcell.azever+dev@gmail.com)  
-💼 **LinkedIn:** [Marcello Azevedo](https://www.linkedin.com/in/marcello-azevedo-ba734451/)
+✨ Autor
 
----
+Feito com dedicação por Marcelo Azevedo 💪
 
+📧 E-mail: marcell.azever+dev@gmail.com
 
-> 💬 *“Todo herói começa com uma boa história — e um código bem escrito.”* 🚀
+🔗 LinkedIn: Marcello Azevedo

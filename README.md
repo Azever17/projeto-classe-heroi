@@ -110,10 +110,11 @@ ninja atacou usando shuriken
 ## ✨ Autor
 
 Feito com dedicação por **Marcelo Azevedo** 💪  
-📧 **E-mail:** [marcell.azever+dev@gmail.com](mailto:marcell.azever+dev@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/marceloazevedo](https://www.linkedin.com/in/marceloazevedo)
 
+📧 **E-mail:** [marcell.azever+dev@gmail.com](mailto:marcell.azever+dev@gmail.com)  
+💼 **LinkedIn:** [Marcello Azevedo](https://www.linkedin.com/in/marcello-azevedo-ba734451/)
 
 ---
+
 
 > 💬 *“Todo herói começa com uma boa história — e um código bem escrito.”* 🚀

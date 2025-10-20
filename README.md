@@ -85,31 +85,39 @@ function main() {
 main()
 ```
 
-🧠 Saída Esperada
+---
+
+## 🧠 Saída Esperada
 
 A saída exibida no terminal deve ser semelhante a esta:
+
+```
 === BATALHA DOS HERÓIS ===
 mago atacou usando magia
 guerreiro atacou usando espada
 monge atacou usando artes marciais
 ninja atacou usando shuriken
 
-🧰 Tecnologias Utilizadas
+``` 
+
+---
+
+## 🧰 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-✅ JavaScript
+- ✅ **JavaScript**
+- ✅ **Node.js**
+- ✅ **VS Code**
+- ✅ **Git e GitHub**
 
-✅ Node.js
+---
 
-✅ VS Code
+## ✨ Autor
 
-✅ Git e GitHub
+Feito com dedicação por **Marcelo Azevedo** 💪  
 
-✨ Autor
+📧 **E-mail:** [marcell.azever+dev@gmail.com](mailto:marcell.azever+dev@gmail.com)  
+🔗 **LinkedIn:** [Marcello Azevedo](https://www.linkedin.com/in/marcello-azevedo-ba734451/)  
 
-Feito com dedicação por Marcelo Azevedo 💪
-
-📧 E-mail: marcell.azever+dev@gmail.com
-
-🔗 LinkedIn: Marcello Azevedo
+> 💬 “Todo herói começa com uma boa história — e um código bem escrito.” 🚀

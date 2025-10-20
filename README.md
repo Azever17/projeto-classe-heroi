@@ -1,8 +1,15 @@
+<div align="center">
 # 🦸‍♂️ Projeto Classe Herói
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 Desafio desenvolvido no bootcamp da **DIO (Digital Innovation One)** para praticar os fundamentos de **JavaScript** e **Programação Orientada a Objetos (POO)**.
 
+</div>
+
 ---
+
 
 ## 🎯 Objetivo
 
@@ -80,31 +87,31 @@ function main() {
 
 main()
 
-🧠 Saída Esperada
+## 🧠 Saída Esperada
+
+```diff
 === BATALHA DOS HERÓIS ===
 mago atacou usando magia
 guerreiro atacou usando espada
 monge atacou usando artes marciais
 ninja atacou usando shuriken
 
-🛠️ Tecnologias Utilizadas
+---
 
-JavaScript
+## 🛠️ Tecnologias Utilizadas
 
-Node.js
-
-VS Code
-
-Git e GitHub
-
-✨ Autor
-
-Feito com dedicação por Marcelo Azevedo 💪
-GitHub: Azever17
-
+- **JavaScript**  
+- **Node.js**  
+- **VS Code**  
+- **Git e GitHub**
 
 ---
 
-### 🚀 Como adicionar no GitHub
+## ✨ Autor
 
+Feito com dedicação por **Marcelo Azevedo** 💪  
+🔗 [Acesse meu GitHub](https://github.com/Azever17)
 
+---
+
+> 💬 *“Todo herói começa com uma boa história — e um código bem escrito.”* 🚀

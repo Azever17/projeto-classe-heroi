@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🦸‍♂️ Projeto Classe Herói  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -7,8 +5,6 @@
 
 Desafio desenvolvido no bootcamp da **DIO (Digital Innovation One)**  
 para praticar os fundamentos de **JavaScript** e **Programação Orientada a Objetos (POO)**.  
-
-</div>
 
 ---
 
@@ -45,8 +41,6 @@ E um método chamado `atacar()`, que exibe uma mensagem diferente conforme o tip
 
 ## 💻 Código Principal
 
-Abaixo está o código completo da classe `Heroi`, com o método `atacar()` e o programa principal que executa os ataques:
-
 ```javascript
 class Heroi {
   constructor(nome, idade, tipo) {
@@ -70,7 +64,7 @@ class Heroi {
       ataque = "ataque indefinido"
     }
 
-    console.log(`${this.tipo} atacou usando ${ataque}`)
+    console.log(`o ${this.tipo} atacou usando ${ataque}`)
   }
 }
 
@@ -89,13 +83,11 @@ function main() {
 }
 
 main()
+```
 
----
-
-## 🧠 Saída Esperada
+🧠 Saída Esperada
 
 A saída exibida no terminal deve ser semelhante a esta:
-
 === BATALHA DOS HERÓIS ===
 mago atacou usando magia
 guerreiro atacou usando espada
@@ -113,11 +105,3 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ✅ VS Code
 
 ✅ Git e GitHub
-
-✨ Autor
-
-Feito com dedicação por Marcelo Azevedo 💪
-
-📧 E-mail: marcell.azever+dev@gmail.com
-
-🔗 LinkedIn: Marcello Azevedo

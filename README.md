@@ -116,5 +116,4 @@ Feito com dedicação por **Marcelo Azevedo** 💪
 
 ---
 
-
 > 💬 *“Todo herói começa com uma boa história — e um código bem escrito.”* 🚀

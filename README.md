@@ -105,3 +105,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ✅ VS Code
 
 ✅ Git e GitHub
+
+✨ Autor
+
+Feito com dedicação por Marcelo Azevedo 💪
+
+📧 E-mail: marcell.azever+dev@gmail.com
+
+🔗 LinkedIn: Marcello Azevedo

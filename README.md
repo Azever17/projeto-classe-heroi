@@ -110,7 +110,9 @@ ninja atacou usando shuriken
 ## ✨ Autor
 
 Feito com dedicação por **Marcelo Azevedo** 💪  
-🔗 [Acesse meu GitHub](https://github.com/Azever17)
+📧 **E-mail:** [marcell.azever+dev@gmail.com](mailto:marcell.azever+dev@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/marceloazevedo](https://www.linkedin.com/in/marceloazevedo)
+
 
 ---
 

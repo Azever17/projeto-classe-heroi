@@ -118,6 +118,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Feito com dedicação por **Marcelo Azevedo** 💪  
 
 📧 **E-mail:** [marcell.azever+dev@gmail.com](mailto:marcell.azever+dev@gmail.com)  
-🔗 **LinkedIn:** [Marcello Azevedo](https://www.linkedin.com/in/marcello-azevedo-ba734451/)  
+🔗 **LinkedIn:** [Marcello Azevedo](https://www.linkedin.com/in/marcello-azevedo/)
 
 > 💬 “Todo herói começa com uma boa história — e um código bem escrito.” 🚀

@@ -87,7 +87,12 @@ function main() {
 
 main()
 
+
+
+
 ## 🧠 Saída Esperada
+
+A saída exibida no terminal deve ser semelhante a esta:
 
 ```diff
 === BATALHA DOS HERÓIS ===
@@ -96,14 +101,17 @@ guerreiro atacou usando espada
 monge atacou usando artes marciais
 ninja atacou usando shuriken
 
+
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 💼 Tecnologias Utilizadas
 
-- **JavaScript**  
-- **Node.js**  
-- **VS Code**  
-- **Git e GitHub**
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- ✅ **JavaScript**  
+- ✅ **Node.js**  
+- ✅ **VS Code**  
+- ✅ **Git e GitHub**
 
 ---
 
@@ -115,5 +123,6 @@ Feito com dedicação por **Marcelo Azevedo** 💪
 💼 **LinkedIn:** [Marcello Azevedo](https://www.linkedin.com/in/marcello-azevedo-ba734451/)
 
 ---
+
 
 > 💬 *“Todo herói começa com uma boa história — e um código bem escrito.”* 🚀
